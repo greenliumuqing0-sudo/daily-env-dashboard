@@ -1,0 +1,96 @@
+name: 🌱 Update Environmental Dashboard
+
+on:
+  schedule:
+    # 每天UTC 0:00运行 (澳洲东部时间上午10:00或11:00，取决于夏令时)
+    - cron: '0 0 * * *'
+  workflow_dispatch:  # 允许手动触发
+  push:
+    branches: [ main ] # 推送到main分支时触发(用于测试)
+
+jobs:
+  update-dashboard-data:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: 🔄 检出代码库
+      uses: actions/checkout@v4
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+
+    - name: 🐍 设置Python环境
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.11'
+
+    - name: 📦 缓存Python依赖
+      uses: actions/cache@v3
+      with:
+        path: ~/.cache/pip
+        key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
+        restore-keys: |
+          ${{ runner.os }}-pip-
+
+    - name: ⚙️  安装Python依赖
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+        echo "📋 已安装依赖包"
+
+    - name: 📁 创建数据目录
+      run: |
+        mkdir -p data
+        echo "📂 数据目录已准备"
+
+    - name: 🌱 抓取环境科学新闻
+      run: |
+        echo "🔍 开始抓取环境科学新闻..."
+        python scrape_env_news.py
+      continue-on-error: true
+
+    - name: 🤖 收集AI工具推荐
+      run: |
+        echo "🔍 开始收集AI工具推荐..."
+        python scrape_ai_tools.py
+      continue-on-error: true
+
+    - name: 💼 收集实践机会信息
+      run: |
+        echo "🔍 开始收集实践机会..."
+        python scrape_opportunities.py  
+      continue-on-error: true
+
+    - name: 📊 处理和整合数据
+      run: |
+        echo "📈 开始数据处理和整合..."
+        python data_processor.py
+
+    - name: 📋 检查生成的文件
+      run: |
+        echo "📂 检查生成的数据文件："
+        ls -la data/ || echo "数据目录为空"
+
+    - name: ✅ 提交数据更新
+      run: |
+        git config --local user.email "envdashboard@github-actions.com"
+        git config --local user.name "🌱 Environmental Dashboard Bot"
+
+        git add data/
+
+        if git diff --staged --quiet; then
+          echo "📋 数据无变化，跳过本次提交"
+        else
+          TIMESTAMP=$(date -u +'%Y-%m-%d %H:%M UTC')
+          git commit -m "🔄 自动更新环境科学仪表盘数据 - $TIMESTAMP"
+          git push origin main
+          echo "✅ 数据更新完成并已推送到仓库"
+          echo "📊 更新时间: $TIMESTAMP"
+        fi
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+    - name: 🎉 更新完成通知
+      run: |
+        echo "🎯 仪表盘数据更新流程完成！"
+        echo "🌐 您的仪表盘地址: https://${{ github.repository_owner }}.github.io/daily-env-dashboard/dashboard/"
+        echo "⏰ 下次自动更新: 明天同一时间"
