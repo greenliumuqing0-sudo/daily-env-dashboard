@@ -1,15 +1,15 @@
 {
-  "last_updated": "2025-10-01T03:32:08.745424",
+  "last_updated": "2025-10-02T03:05:13.844765",
   "tools": [
     {
-      "name": "Google Earth Engine",
-      "summary": "谷歌云端行星级地理空间分析平台，集成PB级卫星数据",
-      "usefulness": "革命性的云端GIS平台，无需下载TB级数据即可进行全球分析。特别适用于气候变化监测、森林砍伐追踪、城市扩张研究、农业监测等大尺度环境研究。对发表高影响因子环境科学论文极其有用。",
-      "technical": "通过JavaScript和Python API访问，集成Landsat、Sentinel、MODIS、CHIRPS等几十个权威数据集。计算在Google云端进行，支持机器学习算法。提供交互式代码编辑器，可导出高分辨率结果。",
-      "category": "GIS",
+      "name": "xcdat",
+      "summary": "An extension of xarray for climate data analysis on structured grids.",
+      "usefulness": "这个climate-analysis相关的Python项目特别适用于环境数据分析和地理空间处理任务。对于环境科学学生来说，它提供了实际的工具和方法来处理复杂的环境数据集。",
+      "technical": "基于Python开发，在GitHub上有135个星标。可通过pip安装，与pandas、numpy、matplotlib等科学计算库无缝集成。支持Jupyter Notebook环境。",
+      "category": "programming",
       "difficulty": "中级",
-      "link": "https://earthengine.google.com/",
-      "stars": "N/A"
+      "link": "https://github.com/xCDAT/xcdat",
+      "stars": 135
     },
     {
       "name": "eds-book",
@@ -32,26 +32,6 @@
       "stars": "N/A"
     },
     {
-      "name": "pcmdi_metrics",
-      "summary": "Open-source Python package for Systematic Evaluation of Climate and Earth System...",
-      "usefulness": "这个climate-analysis相关的Python项目特别适用于环境数据分析和地理空间处理任务。对于环境科学学生来说，它提供了实际的工具和方法来处理复杂的环境数据集。",
-      "technical": "基于Python开发，在GitHub上有120个星标。可通过pip安装，与pandas、numpy、matplotlib等科学计算库无缝集成。支持Jupyter Notebook环境。",
-      "category": "programming",
-      "difficulty": "中级",
-      "link": "https://github.com/PCMDI/pcmdi_metrics",
-      "stars": 120
-    },
-    {
-      "name": "R Spatial生态系统",
-      "summary": "sf + terra + tmap + rgee等R语言空间分析包",
-      "usefulness": "R在统计生态学和环境建模中优势显著。sf包提供现代空间数据处理，terra处理大型栅格，tmap创建出版级地图，rgee连接Google Earth Engine。特别适合物种分布建模、生态统计、环境监测分析。",
-      "technical": "基于sf标准的现代空间框架，与tidyverse生态无缝集成。支持复杂统计模型如GAM、混合效应模型。通过rgee直接访问Google Earth Engine，实现R与云端GIS结合。拥有3000+专业包。",
-      "category": "编程",
-      "difficulty": "中高级",
-      "link": "https://r-spatial.github.io/sf/",
-      "stars": "N/A"
-    },
-    {
       "name": "GRASS GIS",
       "summary": "功能强大的开源GIS和遥感分析系统",
       "usefulness": "特别擅长栅格数据分析和地形建模，是科学研究的利器。内置500+分析工具，支持高级水文建模、景观生态学分析、遥感图像处理。在学术界享有很高声誉，很多算法的标准实现。",
@@ -59,6 +39,26 @@
       "category": "GIS",
       "difficulty": "高级",
       "link": "https://grass.osgeo.org/",
+      "stars": "N/A"
+    },
+    {
+      "name": "Python地理空间生态系统",
+      "summary": "GeoPandas + Rasterio + Folium + Cartopy完整工具链",
+      "usefulness": "Python在环境数据科学中地位无可替代。GeoPandas让空间数据处理如Excel般简单，Folium创建交互式Web地图，Rasterio处理卫星影像，Cartopy制作科学地图。覆盖从数据获取到可视化的完整流程。",
+      "technical": "核心库包括GeoPandas(空间DataFrame)、Rasterio(栅格I/O)、Shapely(几何运算)、Folium(交互地图)、Cartopy(地图投影)、PyProj(坐标转换)。与Jupyter、Pandas、NumPy、Matplotlib完美集成。",
+      "category": "编程",
+      "difficulty": "中级",
+      "link": "https://geopandas.org/",
+      "stars": "N/A"
+    },
+    {
+      "name": "Google Earth Engine",
+      "summary": "谷歌云端行星级地理空间分析平台，集成PB级卫星数据",
+      "usefulness": "革命性的云端GIS平台，无需下载TB级数据即可进行全球分析。特别适用于气候变化监测、森林砍伐追踪、城市扩张研究、农业监测等大尺度环境研究。对发表高影响因子环境科学论文极其有用。",
+      "technical": "通过JavaScript和Python API访问，集成Landsat、Sentinel、MODIS、CHIRPS等几十个权威数据集。计算在Google云端进行，支持机器学习算法。提供交互式代码编辑器，可导出高分辨率结果。",
+      "category": "GIS",
+      "difficulty": "中级",
+      "link": "https://earthengine.google.com/",
       "stars": "N/A"
     }
   ]
