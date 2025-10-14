@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-13T03:31:13.667392",
+  "last_updated": "2025-10-14T03:10:06.361000",
   "tools": [
     {
       "name": "Google Earth Engine",
@@ -9,26 +9,6 @@
       "category": "GIS",
       "difficulty": "中级",
       "link": "https://earthengine.google.com/",
-      "stars": "N/A"
-    },
-    {
-      "name": "GRASS GIS",
-      "summary": "功能强大的开源GIS和遥感分析系统",
-      "usefulness": "特别擅长栅格数据分析和地形建模，是科学研究的利器。内置500+分析工具，支持高级水文建模、景观生态学分析、遥感图像处理。在学术界享有很高声誉，很多算法的标准实现。",
-      "technical": "用C语言开发，执行效率极高。可通过Python、R接口调用。支持并行处理大数据集。拥有30年持续开发历史，算法经过充分验证。可与QGIS集成使用。",
-      "category": "GIS",
-      "difficulty": "高级",
-      "link": "https://grass.osgeo.org/",
-      "stars": "N/A"
-    },
-    {
-      "name": "Python地理空间生态系统",
-      "summary": "GeoPandas + Rasterio + Folium + Cartopy完整工具链",
-      "usefulness": "Python在环境数据科学中地位无可替代。GeoPandas让空间数据处理如Excel般简单，Folium创建交互式Web地图，Rasterio处理卫星影像，Cartopy制作科学地图。覆盖从数据获取到可视化的完整流程。",
-      "technical": "核心库包括GeoPandas(空间DataFrame)、Rasterio(栅格I/O)、Shapely(几何运算)、Folium(交互地图)、Cartopy(地图投影)、PyProj(坐标转换)。与Jupyter、Pandas、NumPy、Matplotlib完美集成。",
-      "category": "编程",
-      "difficulty": "中级",
-      "link": "https://geopandas.org/",
       "stars": "N/A"
     },
     {
@@ -59,6 +39,26 @@
       "category": "编程",
       "difficulty": "中高级",
       "link": "https://r-spatial.github.io/sf/",
+      "stars": "N/A"
+    },
+    {
+      "name": "QGIS",
+      "summary": "世界领先的开源地理信息系统，支持全方位空间数据分析",
+      "usefulness": "对环境科学学生来说是必备技能。QGIS完全免费，功能媲美昂贵的ArcGIS。支持200+种数据格式，从简单地图制作到复杂空间分析都能胜任。学会QGIS后可轻松转换到任何GIS平台，是求职和学术研究的重要加分项。",
+      "technical": "基于C++和Qt框架，跨平台支持Windows/Mac/Linux。内置Python控制台支持自动化脚本，拥有500+插件扩展功能。支持OGC标准，可与R、Python、PostGIS无缝集成进行高级分析。",
+      "category": "GIS",
+      "difficulty": "初级",
+      "link": "https://qgis.org/",
+      "stars": "N/A"
+    },
+    {
+      "name": "GRASS GIS",
+      "summary": "功能强大的开源GIS和遥感分析系统",
+      "usefulness": "特别擅长栅格数据分析和地形建模，是科学研究的利器。内置500+分析工具，支持高级水文建模、景观生态学分析、遥感图像处理。在学术界享有很高声誉，很多算法的标准实现。",
+      "technical": "用C语言开发，执行效率极高。可通过Python、R接口调用。支持并行处理大数据集。拥有30年持续开发历史，算法经过充分验证。可与QGIS集成使用。",
+      "category": "GIS",
+      "difficulty": "高级",
+      "link": "https://grass.osgeo.org/",
       "stars": "N/A"
     }
   ]
