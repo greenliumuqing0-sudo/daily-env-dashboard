@@ -1,6 +1,16 @@
 {
-  "last_updated": "2025-10-28T00:39:38.933625",
+  "last_updated": "2025-10-29T00:42:48.171271",
   "tools": [
+    {
+      "name": "QGIS",
+      "summary": "世界领先的开源地理信息系统，支持全方位空间数据分析",
+      "usefulness": "对环境科学学生来说是必备技能。QGIS完全免费，功能媲美昂贵的ArcGIS。支持200+种数据格式，从简单地图制作到复杂空间分析都能胜任。学会QGIS后可轻松转换到任何GIS平台，是求职和学术研究的重要加分项。",
+      "technical": "基于C++和Qt框架，跨平台支持Windows/Mac/Linux。内置Python控制台支持自动化脚本，拥有500+插件扩展功能。支持OGC标准，可与R、Python、PostGIS无缝集成进行高级分析。",
+      "category": "GIS",
+      "difficulty": "初级",
+      "link": "https://qgis.org/",
+      "stars": "N/A"
+    },
     {
       "name": "Google Earth Engine",
       "summary": "谷歌云端行星级地理空间分析平台，集成PB级卫星数据",
@@ -12,24 +22,14 @@
       "stars": "N/A"
     },
     {
-      "name": "Python地理空间生态系统",
-      "summary": "GeoPandas + Rasterio + Folium + Cartopy完整工具链",
-      "usefulness": "Python在环境数据科学中地位无可替代。GeoPandas让空间数据处理如Excel般简单，Folium创建交互式Web地图，Rasterio处理卫星影像，Cartopy制作科学地图。覆盖从数据获取到可视化的完整流程。",
-      "technical": "核心库包括GeoPandas(空间DataFrame)、Rasterio(栅格I/O)、Shapely(几何运算)、Folium(交互地图)、Cartopy(地图投影)、PyProj(坐标转换)。与Jupyter、Pandas、NumPy、Matplotlib完美集成。",
-      "category": "编程",
-      "difficulty": "中级",
-      "link": "https://geopandas.org/",
-      "stars": "N/A"
-    },
-    {
-      "name": "pudl",
-      "summary": "The Public Utility Data Liberation Project provides analysis-ready energy system...",
+      "name": "xclim",
+      "summary": "Library of derived climate variables, ie climate indicators, based on xarray. ",
       "usefulness": "这个climate-analysis相关的Python项目特别适用于环境数据分析和地理空间处理任务。对于环境科学学生来说，它提供了实际的工具和方法来处理复杂的环境数据集。",
-      "technical": "基于Python开发，在GitHub上有559个星标。可通过pip安装，与pandas、numpy、matplotlib等科学计算库无缝集成。支持Jupyter Notebook环境。",
+      "technical": "基于Python开发，在GitHub上有373个星标。可通过pip安装，与pandas、numpy、matplotlib等科学计算库无缝集成。支持Jupyter Notebook环境。",
       "category": "programming",
       "difficulty": "中级",
-      "link": "https://github.com/catalyst-cooperative/pudl",
-      "stars": 559
+      "link": "https://github.com/Ouranosinc/xclim",
+      "stars": 373
     },
     {
       "name": "eds-book",
@@ -52,13 +52,13 @@
       "stars": "N/A"
     },
     {
-      "name": "QGIS",
-      "summary": "世界领先的开源地理信息系统，支持全方位空间数据分析",
-      "usefulness": "对环境科学学生来说是必备技能。QGIS完全免费，功能媲美昂贵的ArcGIS。支持200+种数据格式，从简单地图制作到复杂空间分析都能胜任。学会QGIS后可轻松转换到任何GIS平台，是求职和学术研究的重要加分项。",
-      "technical": "基于C++和Qt框架，跨平台支持Windows/Mac/Linux。内置Python控制台支持自动化脚本，拥有500+插件扩展功能。支持OGC标准，可与R、Python、PostGIS无缝集成进行高级分析。",
-      "category": "GIS",
-      "difficulty": "初级",
-      "link": "https://qgis.org/",
+      "name": "Python地理空间生态系统",
+      "summary": "GeoPandas + Rasterio + Folium + Cartopy完整工具链",
+      "usefulness": "Python在环境数据科学中地位无可替代。GeoPandas让空间数据处理如Excel般简单，Folium创建交互式Web地图，Rasterio处理卫星影像，Cartopy制作科学地图。覆盖从数据获取到可视化的完整流程。",
+      "technical": "核心库包括GeoPandas(空间DataFrame)、Rasterio(栅格I/O)、Shapely(几何运算)、Folium(交互地图)、Cartopy(地图投影)、PyProj(坐标转换)。与Jupyter、Pandas、NumPy、Matplotlib完美集成。",
+      "category": "编程",
+      "difficulty": "中级",
+      "link": "https://geopandas.org/",
       "stars": "N/A"
     }
   ]
