@@ -1,15 +1,15 @@
 {
-  "last_updated": "2025-10-29T00:42:48.171271",
+  "last_updated": "2025-10-30T00:42:34.790880",
   "tools": [
     {
-      "name": "QGIS",
-      "summary": "世界领先的开源地理信息系统，支持全方位空间数据分析",
-      "usefulness": "对环境科学学生来说是必备技能。QGIS完全免费，功能媲美昂贵的ArcGIS。支持200+种数据格式，从简单地图制作到复杂空间分析都能胜任。学会QGIS后可轻松转换到任何GIS平台，是求职和学术研究的重要加分项。",
-      "technical": "基于C++和Qt框架，跨平台支持Windows/Mac/Linux。内置Python控制台支持自动化脚本，拥有500+插件扩展功能。支持OGC标准，可与R、Python、PostGIS无缝集成进行高级分析。",
-      "category": "GIS",
-      "difficulty": "初级",
-      "link": "https://qgis.org/",
-      "stars": "N/A"
+      "name": "pcmdi_metrics",
+      "summary": "Open-source Python package for Collective and Systematic Evaluation of Climate a...",
+      "usefulness": "这个climate-analysis相关的Python项目特别适用于环境数据分析和地理空间处理任务。对于环境科学学生来说，它提供了实际的工具和方法来处理复杂的环境数据集。",
+      "technical": "基于Python开发，在GitHub上有120个星标。可通过pip安装，与pandas、numpy、matplotlib等科学计算库无缝集成。支持Jupyter Notebook环境。",
+      "category": "programming",
+      "difficulty": "中级",
+      "link": "https://github.com/PCMDI/pcmdi_metrics",
+      "stars": 120
     },
     {
       "name": "Google Earth Engine",
@@ -22,14 +22,14 @@
       "stars": "N/A"
     },
     {
-      "name": "xclim",
-      "summary": "Library of derived climate variables, ie climate indicators, based on xarray. ",
-      "usefulness": "这个climate-analysis相关的Python项目特别适用于环境数据分析和地理空间处理任务。对于环境科学学生来说，它提供了实际的工具和方法来处理复杂的环境数据集。",
-      "technical": "基于Python开发，在GitHub上有373个星标。可通过pip安装，与pandas、numpy、matplotlib等科学计算库无缝集成。支持Jupyter Notebook环境。",
-      "category": "programming",
-      "difficulty": "中级",
-      "link": "https://github.com/Ouranosinc/xclim",
-      "stars": 373
+      "name": "GRASS GIS",
+      "summary": "功能强大的开源GIS和遥感分析系统",
+      "usefulness": "特别擅长栅格数据分析和地形建模，是科学研究的利器。内置500+分析工具，支持高级水文建模、景观生态学分析、遥感图像处理。在学术界享有很高声誉，很多算法的标准实现。",
+      "technical": "用C语言开发，执行效率极高。可通过Python、R接口调用。支持并行处理大数据集。拥有30年持续开发历史，算法经过充分验证。可与QGIS集成使用。",
+      "category": "GIS",
+      "difficulty": "高级",
+      "link": "https://grass.osgeo.org/",
+      "stars": "N/A"
     },
     {
       "name": "eds-book",
@@ -42,16 +42,6 @@
       "stars": 122
     },
     {
-      "name": "GRASS GIS",
-      "summary": "功能强大的开源GIS和遥感分析系统",
-      "usefulness": "特别擅长栅格数据分析和地形建模，是科学研究的利器。内置500+分析工具，支持高级水文建模、景观生态学分析、遥感图像处理。在学术界享有很高声誉，很多算法的标准实现。",
-      "technical": "用C语言开发，执行效率极高。可通过Python、R接口调用。支持并行处理大数据集。拥有30年持续开发历史，算法经过充分验证。可与QGIS集成使用。",
-      "category": "GIS",
-      "difficulty": "高级",
-      "link": "https://grass.osgeo.org/",
-      "stars": "N/A"
-    },
-    {
       "name": "Python地理空间生态系统",
       "summary": "GeoPandas + Rasterio + Folium + Cartopy完整工具链",
       "usefulness": "Python在环境数据科学中地位无可替代。GeoPandas让空间数据处理如Excel般简单，Folium创建交互式Web地图，Rasterio处理卫星影像，Cartopy制作科学地图。覆盖从数据获取到可视化的完整流程。",
@@ -59,6 +49,16 @@
       "category": "编程",
       "difficulty": "中级",
       "link": "https://geopandas.org/",
+      "stars": "N/A"
+    },
+    {
+      "name": "QGIS",
+      "summary": "世界领先的开源地理信息系统，支持全方位空间数据分析",
+      "usefulness": "对环境科学学生来说是必备技能。QGIS完全免费，功能媲美昂贵的ArcGIS。支持200+种数据格式，从简单地图制作到复杂空间分析都能胜任。学会QGIS后可轻松转换到任何GIS平台，是求职和学术研究的重要加分项。",
+      "technical": "基于C++和Qt框架，跨平台支持Windows/Mac/Linux。内置Python控制台支持自动化脚本，拥有500+插件扩展功能。支持OGC标准，可与R、Python、PostGIS无缝集成进行高级分析。",
+      "category": "GIS",
+      "difficulty": "初级",
+      "link": "https://qgis.org/",
       "stars": "N/A"
     }
   ]
