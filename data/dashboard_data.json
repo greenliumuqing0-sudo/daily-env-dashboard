@@ -1,12 +1,12 @@
 {
-  "last_updated": "2025-11-04T00:41:32.877074",
-  "current_date": "2025年11月04日",
+  "last_updated": "2025-11-05T00:43:10.248026",
+  "current_date": "2025年11月05日",
   "environmental_news": [
     {
       "title": "生物多样性保护新突破：基于AI的物种监测技术",
       "description": "最新研究表明，结合人工智能和环境DNA技术的物种监测方法，可以显著提高生物多样性评估的准确性和效率。这为环境保护和生态研究提供了强有力的工具。",
       "source": "Nature Ecology & Evolution",
-      "date": "2025-11-04",
+      "date": "2025-11-05",
       "category": "academic",
       "link": "https://www.nature.com/natecolevol/",
       "urgency": "medium"
@@ -15,7 +15,7 @@
       "title": "澳大利亚2025年气候风险评估重要发现",
       "description": "最新国家气候风险评估显示，到2050年将有150万澳大利亚人面临海平面上升威胁。在3°C升温情景下，悉尼热相关死亡人数可能增加440%。政府呼吁立即采取适应措施。",
       "source": "澳大利亚气候委员会",
-      "date": "2025-11-04",
+      "date": "2025-11-05",
       "category": "climate",
       "link": "https://www.climatecouncil.org.au/resources/",
       "urgency": "high"
@@ -24,7 +24,7 @@
       "title": "极端天气事件频发，适应性基础设施建设迫在眉睫",
       "description": "气候委员会最新报告指出，澳大利亚正面临更频繁的极端天气事件，包括干旱、洪水和野火。现有基础设施的脆弱性凸显，需要立即加强气候适应性设计和建设。",
       "source": "澳大利亚气候委员会",
-      "date": "2025-11-04",
+      "date": "2025-11-05",
       "category": "climate",
       "link": "https://www.climatecouncil.org.au/resources/",
       "urgency": "high"
@@ -33,13 +33,23 @@
       "title": "全球气温预测：未来5年将持续创纪录高温",
       "description": "世界气象组织最新预测显示，2025-2029年全球平均气温有70%可能超过1.5°C临界值。这对全球生态系统和人类社会构成前所未有的挑战，需要加速减排和适应行动。",
       "source": "世界气象组织",
-      "date": "2025-11-04",
+      "date": "2025-11-05",
       "category": "climate",
       "link": "https://wmo.int/news/media-centre/",
       "urgency": "high"
     }
   ],
   "ai_tools": [
+    {
+      "name": "QGIS",
+      "summary": "世界领先的开源地理信息系统，支持全方位空间数据分析",
+      "usefulness": "对环境科学学生来说是必备技能。QGIS完全免费，功能媲美昂贵的ArcGIS。支持200+种数据格式，从简单地图制作到复杂空间分析都能胜任。学会QGIS后可轻松转换到任何GIS平台，是求职和学术研究的重要加分项。",
+      "technical": "基于C++和Qt框架，跨平台支持Windows/Mac/Linux。内置Python控制台支持自动化脚本，拥有500+插件扩展功能。支持OGC标准，可与R、Python、PostGIS无缝集成进行高级分析。",
+      "category": "GIS",
+      "difficulty": "初级",
+      "link": "https://qgis.org/",
+      "stars": "N/A"
+    },
     {
       "name": "Google Earth Engine",
       "summary": "谷歌云端行星级地理空间分析平台，集成PB级卫星数据",
@@ -48,16 +58,6 @@
       "category": "GIS",
       "difficulty": "中级",
       "link": "https://earthengine.google.com/",
-      "stars": "N/A"
-    },
-    {
-      "name": "GRASS GIS",
-      "summary": "功能强大的开源GIS和遥感分析系统",
-      "usefulness": "特别擅长栅格数据分析和地形建模，是科学研究的利器。内置500+分析工具，支持高级水文建模、景观生态学分析、遥感图像处理。在学术界享有很高声誉，很多算法的标准实现。",
-      "technical": "用C语言开发，执行效率极高。可通过Python、R接口调用。支持并行处理大数据集。拥有30年持续开发历史，算法经过充分验证。可与QGIS集成使用。",
-      "category": "GIS",
-      "difficulty": "高级",
-      "link": "https://grass.osgeo.org/",
       "stars": "N/A"
     },
     {
@@ -155,8 +155,8 @@
   ],
   "metadata": {
     "total_items": 13,
-    "last_processing_time": "2025-11-04 00:41:32 AEST",
-    "next_update": "2025-11-05 00:41:32 AEST",
+    "last_processing_time": "2025-11-05 00:43:10 AEST",
+    "next_update": "2025-11-06 00:43:10 AEST",
     "data_sources": [
       "ANU Fenner School",
       "Australian Climate Council",
