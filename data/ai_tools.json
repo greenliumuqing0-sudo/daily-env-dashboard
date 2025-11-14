@@ -1,16 +1,6 @@
 {
-  "last_updated": "2025-11-13T00:42:31.711330",
+  "last_updated": "2025-11-14T00:42:37.238815",
   "tools": [
-    {
-      "name": "R Spatial生态系统",
-      "summary": "sf + terra + tmap + rgee等R语言空间分析包",
-      "usefulness": "R在统计生态学和环境建模中优势显著。sf包提供现代空间数据处理，terra处理大型栅格，tmap创建出版级地图，rgee连接Google Earth Engine。特别适合物种分布建模、生态统计、环境监测分析。",
-      "technical": "基于sf标准的现代空间框架，与tidyverse生态无缝集成。支持复杂统计模型如GAM、混合效应模型。通过rgee直接访问Google Earth Engine，实现R与云端GIS结合。拥有3000+专业包。",
-      "category": "编程",
-      "difficulty": "中高级",
-      "link": "https://r-spatial.github.io/sf/",
-      "stars": "N/A"
-    },
     {
       "name": "eds-book",
       "summary": "A computational notebook community for open environmental data science 🌎",
@@ -32,24 +22,24 @@
       "stars": "N/A"
     },
     {
-      "name": "QGIS",
-      "summary": "世界领先的开源地理信息系统，支持全方位空间数据分析",
-      "usefulness": "对环境科学学生来说是必备技能。QGIS完全免费，功能媲美昂贵的ArcGIS。支持200+种数据格式，从简单地图制作到复杂空间分析都能胜任。学会QGIS后可轻松转换到任何GIS平台，是求职和学术研究的重要加分项。",
-      "technical": "基于C++和Qt框架，跨平台支持Windows/Mac/Linux。内置Python控制台支持自动化脚本，拥有500+插件扩展功能。支持OGC标准，可与R、Python、PostGIS无缝集成进行高级分析。",
-      "category": "GIS",
-      "difficulty": "初级",
-      "link": "https://qgis.org/",
-      "stars": "N/A"
-    },
-    {
-      "name": "uxarray",
-      "summary": "Xarray extension for unstructured climate and global weather data analysis and v...",
+      "name": "xcdat",
+      "summary": "An extension of xarray for climate data analysis on structured grids.",
       "usefulness": "这个climate-analysis相关的Python项目特别适用于环境数据分析和地理空间处理任务。对于环境科学学生来说，它提供了实际的工具和方法来处理复杂的环境数据集。",
-      "technical": "基于Python开发，在GitHub上有203个星标。可通过pip安装，与pandas、numpy、matplotlib等科学计算库无缝集成。支持Jupyter Notebook环境。",
+      "technical": "基于Python开发，在GitHub上有137个星标。可通过pip安装，与pandas、numpy、matplotlib等科学计算库无缝集成。支持Jupyter Notebook环境。",
       "category": "programming",
       "difficulty": "中级",
-      "link": "https://github.com/UXARRAY/uxarray",
-      "stars": 203
+      "link": "https://github.com/xCDAT/xcdat",
+      "stars": 137
+    },
+    {
+      "name": "R Spatial生态系统",
+      "summary": "sf + terra + tmap + rgee等R语言空间分析包",
+      "usefulness": "R在统计生态学和环境建模中优势显著。sf包提供现代空间数据处理，terra处理大型栅格，tmap创建出版级地图，rgee连接Google Earth Engine。特别适合物种分布建模、生态统计、环境监测分析。",
+      "technical": "基于sf标准的现代空间框架，与tidyverse生态无缝集成。支持复杂统计模型如GAM、混合效应模型。通过rgee直接访问Google Earth Engine，实现R与云端GIS结合。拥有3000+专业包。",
+      "category": "编程",
+      "difficulty": "中高级",
+      "link": "https://r-spatial.github.io/sf/",
+      "stars": "N/A"
     },
     {
       "name": "Google Earth Engine",
@@ -59,6 +49,16 @@
       "category": "GIS",
       "difficulty": "中级",
       "link": "https://earthengine.google.com/",
+      "stars": "N/A"
+    },
+    {
+      "name": "QGIS",
+      "summary": "世界领先的开源地理信息系统，支持全方位空间数据分析",
+      "usefulness": "对环境科学学生来说是必备技能。QGIS完全免费，功能媲美昂贵的ArcGIS。支持200+种数据格式，从简单地图制作到复杂空间分析都能胜任。学会QGIS后可轻松转换到任何GIS平台，是求职和学术研究的重要加分项。",
+      "technical": "基于C++和Qt框架，跨平台支持Windows/Mac/Linux。内置Python控制台支持自动化脚本，拥有500+插件扩展功能。支持OGC标准，可与R、Python、PostGIS无缝集成进行高级分析。",
+      "category": "GIS",
+      "difficulty": "初级",
+      "link": "https://qgis.org/",
       "stars": "N/A"
     }
   ]
