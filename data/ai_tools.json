@@ -1,25 +1,15 @@
 {
-  "last_updated": "2025-11-23T00:48:52.869382",
+  "last_updated": "2025-11-24T00:45:57.627269",
   "tools": [
     {
-      "name": "Python地理空间生态系统",
-      "summary": "GeoPandas + Rasterio + Folium + Cartopy完整工具链",
-      "usefulness": "Python在环境数据科学中地位无可替代。GeoPandas让空间数据处理如Excel般简单，Folium创建交互式Web地图，Rasterio处理卫星影像，Cartopy制作科学地图。覆盖从数据获取到可视化的完整流程。",
-      "technical": "核心库包括GeoPandas(空间DataFrame)、Rasterio(栅格I/O)、Shapely(几何运算)、Folium(交互地图)、Cartopy(地图投影)、PyProj(坐标转换)。与Jupyter、Pandas、NumPy、Matplotlib完美集成。",
-      "category": "编程",
-      "difficulty": "中级",
-      "link": "https://geopandas.org/",
-      "stars": "N/A"
-    },
-    {
-      "name": "eds-book",
-      "summary": "A computational notebook community for open environmental data science 🌎",
-      "usefulness": "这个environmental-data相关的Python项目特别适用于环境数据分析和地理空间处理任务。对于环境科学学生来说，它提供了实际的工具和方法来处理复杂的环境数据集。",
-      "technical": "基于Python开发，在GitHub上有122个星标。可通过pip安装，与pandas、numpy、matplotlib等科学计算库无缝集成。支持Jupyter Notebook环境。",
+      "name": "pudl",
+      "summary": "The Public Utility Data Liberation Project provides analysis-ready energy system...",
+      "usefulness": "这个climate-analysis相关的Python项目特别适用于环境数据分析和地理空间处理任务。对于环境科学学生来说，它提供了实际的工具和方法来处理复杂的环境数据集。",
+      "technical": "基于Python开发，在GitHub上有564个星标。可通过pip安装，与pandas、numpy、matplotlib等科学计算库无缝集成。支持Jupyter Notebook环境。",
       "category": "programming",
       "difficulty": "中级",
-      "link": "https://github.com/eds-book/eds-book",
-      "stars": 122
+      "link": "https://github.com/catalyst-cooperative/pudl",
+      "stars": 564
     },
     {
       "name": "Google Earth Engine",
@@ -42,6 +32,16 @@
       "stars": "N/A"
     },
     {
+      "name": "eds-book",
+      "summary": "A computational notebook community for open environmental data science 🌎",
+      "usefulness": "这个environmental-data相关的Python项目特别适用于环境数据分析和地理空间处理任务。对于环境科学学生来说，它提供了实际的工具和方法来处理复杂的环境数据集。",
+      "technical": "基于Python开发，在GitHub上有121个星标。可通过pip安装，与pandas、numpy、matplotlib等科学计算库无缝集成。支持Jupyter Notebook环境。",
+      "category": "programming",
+      "difficulty": "中级",
+      "link": "https://github.com/eds-book/eds-book",
+      "stars": 121
+    },
+    {
       "name": "GRASS GIS",
       "summary": "功能强大的开源GIS和遥感分析系统",
       "usefulness": "特别擅长栅格数据分析和地形建模，是科学研究的利器。内置500+分析工具，支持高级水文建模、景观生态学分析、遥感图像处理。在学术界享有很高声誉，很多算法的标准实现。",
@@ -52,14 +52,14 @@
       "stars": "N/A"
     },
     {
-      "name": "pudl",
-      "summary": "The Public Utility Data Liberation Project provides analysis-ready energy system...",
-      "usefulness": "这个climate-analysis相关的Python项目特别适用于环境数据分析和地理空间处理任务。对于环境科学学生来说，它提供了实际的工具和方法来处理复杂的环境数据集。",
-      "technical": "基于Python开发，在GitHub上有564个星标。可通过pip安装，与pandas、numpy、matplotlib等科学计算库无缝集成。支持Jupyter Notebook环境。",
-      "category": "programming",
+      "name": "Python地理空间生态系统",
+      "summary": "GeoPandas + Rasterio + Folium + Cartopy完整工具链",
+      "usefulness": "Python在环境数据科学中地位无可替代。GeoPandas让空间数据处理如Excel般简单，Folium创建交互式Web地图，Rasterio处理卫星影像，Cartopy制作科学地图。覆盖从数据获取到可视化的完整流程。",
+      "technical": "核心库包括GeoPandas(空间DataFrame)、Rasterio(栅格I/O)、Shapely(几何运算)、Folium(交互地图)、Cartopy(地图投影)、PyProj(坐标转换)。与Jupyter、Pandas、NumPy、Matplotlib完美集成。",
+      "category": "编程",
       "difficulty": "中级",
-      "link": "https://github.com/catalyst-cooperative/pudl",
-      "stars": 564
+      "link": "https://geopandas.org/",
+      "stars": "N/A"
     }
   ]
 }
