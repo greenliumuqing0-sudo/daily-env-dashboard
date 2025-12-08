@@ -1,24 +1,24 @@
 {
-  "last_updated": "2025-12-07T00:48:58.248029",
+  "last_updated": "2025-12-08T00:44:10.482136",
   "tools": [
     {
-      "name": "Google Earth Engine",
-      "summary": "谷歌云端行星级地理空间分析平台，集成PB级卫星数据",
-      "usefulness": "革命性的云端GIS平台，无需下载TB级数据即可进行全球分析。特别适用于气候变化监测、森林砍伐追踪、城市扩张研究、农业监测等大尺度环境研究。对发表高影响因子环境科学论文极其有用。",
-      "technical": "通过JavaScript和Python API访问，集成Landsat、Sentinel、MODIS、CHIRPS等几十个权威数据集。计算在Google云端进行，支持机器学习算法。提供交互式代码编辑器，可导出高分辨率结果。",
-      "category": "GIS",
+      "name": "eds-book",
+      "summary": "A computational notebook community for open environmental data science 🌎",
+      "usefulness": "这个environmental-data相关的Python项目特别适用于环境数据分析和地理空间处理任务。对于环境科学学生来说，它提供了实际的工具和方法来处理复杂的环境数据集。",
+      "technical": "基于Python开发，在GitHub上有121个星标。可通过pip安装，与pandas、numpy、matplotlib等科学计算库无缝集成。支持Jupyter Notebook环境。",
+      "category": "programming",
       "difficulty": "中级",
-      "link": "https://earthengine.google.com/",
-      "stars": "N/A"
+      "link": "https://github.com/eds-book/eds-book",
+      "stars": 121
     },
     {
-      "name": "GRASS GIS",
-      "summary": "功能强大的开源GIS和遥感分析系统",
-      "usefulness": "特别擅长栅格数据分析和地形建模，是科学研究的利器。内置500+分析工具，支持高级水文建模、景观生态学分析、遥感图像处理。在学术界享有很高声誉，很多算法的标准实现。",
-      "technical": "用C语言开发，执行效率极高。可通过Python、R接口调用。支持并行处理大数据集。拥有30年持续开发历史，算法经过充分验证。可与QGIS集成使用。",
+      "name": "QGIS",
+      "summary": "世界领先的开源地理信息系统，支持全方位空间数据分析",
+      "usefulness": "对环境科学学生来说是必备技能。QGIS完全免费，功能媲美昂贵的ArcGIS。支持200+种数据格式，从简单地图制作到复杂空间分析都能胜任。学会QGIS后可轻松转换到任何GIS平台，是求职和学术研究的重要加分项。",
+      "technical": "基于C++和Qt框架，跨平台支持Windows/Mac/Linux。内置Python控制台支持自动化脚本，拥有500+插件扩展功能。支持OGC标准，可与R、Python、PostGIS无缝集成进行高级分析。",
       "category": "GIS",
-      "difficulty": "高级",
-      "link": "https://grass.osgeo.org/",
+      "difficulty": "初级",
+      "link": "https://qgis.org/",
       "stars": "N/A"
     },
     {
@@ -42,24 +42,24 @@
       "stars": "N/A"
     },
     {
-      "name": "eds-book",
-      "summary": "A computational notebook community for open environmental data science 🌎",
-      "usefulness": "这个environmental-data相关的Python项目特别适用于环境数据分析和地理空间处理任务。对于环境科学学生来说，它提供了实际的工具和方法来处理复杂的环境数据集。",
-      "technical": "基于Python开发，在GitHub上有121个星标。可通过pip安装，与pandas、numpy、matplotlib等科学计算库无缝集成。支持Jupyter Notebook环境。",
-      "category": "programming",
+      "name": "Google Earth Engine",
+      "summary": "谷歌云端行星级地理空间分析平台，集成PB级卫星数据",
+      "usefulness": "革命性的云端GIS平台，无需下载TB级数据即可进行全球分析。特别适用于气候变化监测、森林砍伐追踪、城市扩张研究、农业监测等大尺度环境研究。对发表高影响因子环境科学论文极其有用。",
+      "technical": "通过JavaScript和Python API访问，集成Landsat、Sentinel、MODIS、CHIRPS等几十个权威数据集。计算在Google云端进行，支持机器学习算法。提供交互式代码编辑器，可导出高分辨率结果。",
+      "category": "GIS",
       "difficulty": "中级",
-      "link": "https://github.com/eds-book/eds-book",
-      "stars": 121
+      "link": "https://earthengine.google.com/",
+      "stars": "N/A"
     },
     {
-      "name": "pyam",
-      "summary": "Analysis & visualization of energy & climate scenarios",
+      "name": "pudl",
+      "summary": "The Public Utility Data Liberation Project provides analysis-ready energy system...",
       "usefulness": "这个climate-analysis相关的Python项目特别适用于环境数据分析和地理空间处理任务。对于环境科学学生来说，它提供了实际的工具和方法来处理复杂的环境数据集。",
-      "technical": "基于Python开发，在GitHub上有273个星标。可通过pip安装，与pandas、numpy、matplotlib等科学计算库无缝集成。支持Jupyter Notebook环境。",
+      "technical": "基于Python开发，在GitHub上有564个星标。可通过pip安装，与pandas、numpy、matplotlib等科学计算库无缝集成。支持Jupyter Notebook环境。",
       "category": "programming",
       "difficulty": "中级",
-      "link": "https://github.com/IAMconsortium/pyam",
-      "stars": 273
+      "link": "https://github.com/catalyst-cooperative/pudl",
+      "stars": 564
     }
   ]
 }
