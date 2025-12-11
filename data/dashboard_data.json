@@ -1,12 +1,12 @@
 {
-  "last_updated": "2025-12-10T00:45:01.101813",
-  "current_date": "2025年12月10日",
+  "last_updated": "2025-12-11T00:45:38.591136",
+  "current_date": "2025年12月11日",
   "environmental_news": [
     {
       "title": "生物多样性保护新突破：基于AI的物种监测技术",
       "description": "最新研究表明，结合人工智能和环境DNA技术的物种监测方法，可以显著提高生物多样性评估的准确性和效率。这为环境保护和生态研究提供了强有力的工具。",
       "source": "Nature Ecology & Evolution",
-      "date": "2025-12-10",
+      "date": "2025-12-11",
       "category": "academic",
       "link": "https://www.nature.com/natecolevol/",
       "urgency": "medium"
@@ -15,7 +15,7 @@
       "title": "澳大利亚2025年气候风险评估重要发现",
       "description": "最新国家气候风险评估显示，到2050年将有150万澳大利亚人面临海平面上升威胁。在3°C升温情景下，悉尼热相关死亡人数可能增加440%。政府呼吁立即采取适应措施。",
       "source": "澳大利亚气候委员会",
-      "date": "2025-12-10",
+      "date": "2025-12-11",
       "category": "climate",
       "link": "https://www.climatecouncil.org.au/resources/",
       "urgency": "high"
@@ -24,7 +24,7 @@
       "title": "极端天气事件频发，适应性基础设施建设迫在眉睫",
       "description": "气候委员会最新报告指出，澳大利亚正面临更频繁的极端天气事件，包括干旱、洪水和野火。现有基础设施的脆弱性凸显，需要立即加强气候适应性设计和建设。",
       "source": "澳大利亚气候委员会",
-      "date": "2025-12-10",
+      "date": "2025-12-11",
       "category": "climate",
       "link": "https://www.climatecouncil.org.au/resources/",
       "urgency": "high"
@@ -33,7 +33,7 @@
       "title": "全球气温预测：未来5年将持续创纪录高温",
       "description": "世界气象组织最新预测显示，2025-2029年全球平均气温有70%可能超过1.5°C临界值。这对全球生态系统和人类社会构成前所未有的挑战，需要加速减排和适应行动。",
       "source": "世界气象组织",
-      "date": "2025-12-10",
+      "date": "2025-12-11",
       "category": "climate",
       "link": "https://wmo.int/news/media-centre/",
       "urgency": "high"
@@ -61,13 +61,13 @@
       "stars": "N/A"
     },
     {
-      "name": "GRASS GIS",
-      "summary": "功能强大的开源GIS和遥感分析系统",
-      "usefulness": "特别擅长栅格数据分析和地形建模，是科学研究的利器。内置500+分析工具，支持高级水文建模、景观生态学分析、遥感图像处理。在学术界享有很高声誉，很多算法的标准实现。",
-      "technical": "用C语言开发，执行效率极高。可通过Python、R接口调用。支持并行处理大数据集。拥有30年持续开发历史，算法经过充分验证。可与QGIS集成使用。",
-      "category": "GIS",
-      "difficulty": "高级",
-      "link": "https://grass.osgeo.org/",
+      "name": "Python地理空间生态系统",
+      "summary": "GeoPandas + Rasterio + Folium + Cartopy完整工具链",
+      "usefulness": "Python在环境数据科学中地位无可替代。GeoPandas让空间数据处理如Excel般简单，Folium创建交互式Web地图，Rasterio处理卫星影像，Cartopy制作科学地图。覆盖从数据获取到可视化的完整流程。",
+      "technical": "核心库包括GeoPandas(空间DataFrame)、Rasterio(栅格I/O)、Shapely(几何运算)、Folium(交互地图)、Cartopy(地图投影)、PyProj(坐标转换)。与Jupyter、Pandas、NumPy、Matplotlib完美集成。",
+      "category": "编程",
+      "difficulty": "中级",
+      "link": "https://geopandas.org/",
       "stars": "N/A"
     },
     {
@@ -79,16 +79,6 @@
       "difficulty": "中级",
       "link": "https://github.com/eds-book/eds-book",
       "stars": 121
-    },
-    {
-      "name": "R Spatial生态系统",
-      "summary": "sf + terra + tmap + rgee等R语言空间分析包",
-      "usefulness": "R在统计生态学和环境建模中优势显著。sf包提供现代空间数据处理，terra处理大型栅格，tmap创建出版级地图，rgee连接Google Earth Engine。特别适合物种分布建模、生态统计、环境监测分析。",
-      "technical": "基于sf标准的现代空间框架，与tidyverse生态无缝集成。支持复杂统计模型如GAM、混合效应模型。通过rgee直接访问Google Earth Engine，实现R与云端GIS结合。拥有3000+专业包。",
-      "category": "编程",
-      "difficulty": "中高级",
-      "link": "https://r-spatial.github.io/sf/",
-      "stars": "N/A"
     }
   ],
   "opportunities": [
@@ -164,9 +154,9 @@
     }
   ],
   "metadata": {
-    "total_items": 14,
-    "last_processing_time": "2025-12-10 00:45:01 AEST",
-    "next_update": "2025-12-11 00:45:01 AEST",
+    "total_items": 13,
+    "last_processing_time": "2025-12-11 00:45:38 AEST",
+    "next_update": "2025-12-12 00:45:38 AEST",
     "data_sources": [
       "ANU Fenner School",
       "Australian Climate Council",
@@ -177,7 +167,7 @@
     ],
     "categories": {
       "news": 4,
-      "tools": 5,
+      "tools": 4,
       "opportunities": 5
     }
   }
