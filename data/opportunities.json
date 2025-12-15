@@ -1,48 +1,6 @@
 {
-  "last_updated": "2025-12-14T00:49:26.769090",
+  "last_updated": "2025-12-15T00:47:31.302515",
   "opportunities": [
-    {
-      "title": "ACT保护委员会环境政策研究助理",
-      "description": "直接参与影响ACT环境政策制定的重要工作。协助撰写政策分析报告、组织社区咨询活动、进行环境影响评估研究。工作内容包括文献综述、数据分析、利益相关者访谈、公众参与活动策划等。",
-      "organization": "Conservation Council ACT Region",
-      "location": "堪培拉ACT - 市中心办公室 + 灵活远程工作",
-      "type": "志愿者",
-      "commitment": "每周6-10小时，时间灵活可协商",
-      "skills": "政策分析、学术写作、定量研究方法、利益相关者沟通",
-      "benefits": "深入了解环境政策制定过程、建立政府和NGO专业联系、提升政策分析和写作能力",
-      "contact": "通过官网在线申请系统提交申请",
-      "link": "https://conservationcouncil.org.au/get-involved/",
-      "deadline": "持续开放申请，每学期初优先考虑",
-      "requirements": "本科在读或以上学历，优秀的英文写作能力，对环境政策有浓厚兴趣"
-    },
-    {
-      "title": "ACT Parks生态恢复实践项目",
-      "description": "参与ACT国家公园和自然保护区的实地生态恢复工作。活动包括本土植物种植、外来杂草清除、步道维护、野生动物栖息地改善、土壤保护等。与专业护林员和生态学家一起工作，学习实用的保护技能。",
-      "organization": "ACT Parks and Conservation Service",
-      "location": "Namadgi National Park, Tidbinbilla等ACT保护区",
-      "type": "志愿者",
-      "commitment": "每月1-2个周末，每次全天活动(6-8小时)",
-      "skills": "澳洲本土植物识别、生态恢复技术、使用基础园艺工具、团队协作",
-      "benefits": "获得专业生态恢复实践经验、深入了解澳洲本土生态系统、野外工作技能培训",
-      "contact": "parkcare@act.gov.au",
-      "link": "https://www.parks.act.gov.au/get-involved/parkcare-volunteering",
-      "deadline": "持续招募，春夏季(10月-3月)活动较多",
-      "requirements": "身体健康能进行户外体力劳动，通过基础工作安全培训，对自然保护有兴趣"
-    },
-    {
-      "title": "ANU环境科学研究助理(多个职位)",
-      "description": "协助Fenner School教授进行前沿环境科学研究。参与气候变化影响评估、生物多样性保护、可持续发展政策等研究项目。工作包括数据收集分析、文献综述、实验设计、统计建模、学术写作等。",
-      "organization": "ANU Fenner School of Environment & Society",
-      "location": "堪培拉ACT - ANU Acton校区",
-      "type": "兼职研究",
-      "commitment": "每周15-25小时，学期期间时间灵活安排",
-      "skills": "统计分析(R/Python/SPSS)、学术写作、文献研究、数据可视化、英语流利",
-      "benefits": "丰富学术研究经验、导师推荐信、研究生申请强力加分、时薪$28-32",
-      "contact": "关注Fenner School官网就业页面，定期发布招聘信息",
-      "link": "https://fennerschool.anu.edu.au/study/careers",
-      "deadline": "按项目周期招聘，通常每学期初和年中",
-      "requirements": "环境/地理/生物相关专业，GPA 6.0+，有研究经验或强烈研究兴趣者优先"
-    },
     {
       "title": "Canberra Environment Centre社区可持续发展项目",
       "description": "参与多元化的社区环境项目，包括城市农业、零废物推广、可再生能源教育、气候适应性社区建设等。组织和参与环境教育工作坊、维护社区花园、推广环保技术和生活方式。",
@@ -70,6 +28,34 @@
       "link": "https://www.jerrabomberrawetlands.org.au/volunteer",
       "deadline": "全年滚动招募，春季(9-11月)活动最多",
       "requirements": "对自然保护有热情，能进行轻度体力活动，完成基础安全培训"
+    },
+    {
+      "title": "ANU环境科学研究助理(多个职位)",
+      "description": "协助Fenner School教授进行前沿环境科学研究。参与气候变化影响评估、生物多样性保护、可持续发展政策等研究项目。工作包括数据收集分析、文献综述、实验设计、统计建模、学术写作等。",
+      "organization": "ANU Fenner School of Environment & Society",
+      "location": "堪培拉ACT - ANU Acton校区",
+      "type": "兼职研究",
+      "commitment": "每周15-25小时，学期期间时间灵活安排",
+      "skills": "统计分析(R/Python/SPSS)、学术写作、文献研究、数据可视化、英语流利",
+      "benefits": "丰富学术研究经验、导师推荐信、研究生申请强力加分、时薪$28-32",
+      "contact": "关注Fenner School官网就业页面，定期发布招聘信息",
+      "link": "https://fennerschool.anu.edu.au/study/careers",
+      "deadline": "按项目周期招聘，通常每学期初和年中",
+      "requirements": "环境/地理/生物相关专业，GPA 6.0+，有研究经验或强烈研究兴趣者优先"
+    },
+    {
+      "title": "ACT Parks生态恢复实践项目",
+      "description": "参与ACT国家公园和自然保护区的实地生态恢复工作。活动包括本土植物种植、外来杂草清除、步道维护、野生动物栖息地改善、土壤保护等。与专业护林员和生态学家一起工作，学习实用的保护技能。",
+      "organization": "ACT Parks and Conservation Service",
+      "location": "Namadgi National Park, Tidbinbilla等ACT保护区",
+      "type": "志愿者",
+      "commitment": "每月1-2个周末，每次全天活动(6-8小时)",
+      "skills": "澳洲本土植物识别、生态恢复技术、使用基础园艺工具、团队协作",
+      "benefits": "获得专业生态恢复实践经验、深入了解澳洲本土生态系统、野外工作技能培训",
+      "contact": "parkcare@act.gov.au",
+      "link": "https://www.parks.act.gov.au/get-involved/parkcare-volunteering",
+      "deadline": "持续招募，春夏季(10月-3月)活动较多",
+      "requirements": "身体健康能进行户外体力劳动，通过基础工作安全培训，对自然保护有兴趣"
     },
     {
       "title": "气候数据分析师 - 澳洲气象局",
@@ -112,6 +98,20 @@
       "link": "https://au.indeed.com/jobs?q=environmental+consultant&l=Canberra+ACT",
       "deadline": "持续招聘，应届毕业生项目通常在10-12月开始",
       "requirements": "环境科学/工程学位，良好英语沟通能力，持有驾照，愿意学习澳洲环境法规"
+    },
+    {
+      "title": "ACT保护委员会环境政策研究助理",
+      "description": "直接参与影响ACT环境政策制定的重要工作。协助撰写政策分析报告、组织社区咨询活动、进行环境影响评估研究。工作内容包括文献综述、数据分析、利益相关者访谈、公众参与活动策划等。",
+      "organization": "Conservation Council ACT Region",
+      "location": "堪培拉ACT - 市中心办公室 + 灵活远程工作",
+      "type": "志愿者",
+      "commitment": "每周6-10小时，时间灵活可协商",
+      "skills": "政策分析、学术写作、定量研究方法、利益相关者沟通",
+      "benefits": "深入了解环境政策制定过程、建立政府和NGO专业联系、提升政策分析和写作能力",
+      "contact": "通过官网在线申请系统提交申请",
+      "link": "https://conservationcouncil.org.au/get-involved/",
+      "deadline": "持续开放申请，每学期初优先考虑",
+      "requirements": "本科在读或以上学历，优秀的英文写作能力，对环境政策有浓厚兴趣"
     }
   ]
 }
