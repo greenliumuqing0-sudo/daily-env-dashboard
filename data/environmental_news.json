@@ -1,11 +1,11 @@
 {
-  "last_updated": "2025-12-22T00:47:36.670951",
+  "last_updated": "2025-12-23T00:44:40.933787",
   "news": [
     {
       "title": "澳大利亚2025年气候风险评估重要发现",
       "description": "最新国家气候风险评估显示，到2050年将有150万澳大利亚人面临海平面上升威胁。在3°C升温情景下，悉尼热相关死亡人数可能增加440%。政府呼吁立即采取适应措施。",
       "source": "澳大利亚气候委员会",
-      "date": "2025-12-22",
+      "date": "2025-12-23",
       "category": "climate",
       "link": "https://www.climatecouncil.org.au/resources/",
       "urgency": "high"
@@ -14,7 +14,7 @@
       "title": "极端天气事件频发，适应性基础设施建设迫在眉睫",
       "description": "气候委员会最新报告指出，澳大利亚正面临更频繁的极端天气事件，包括干旱、洪水和野火。现有基础设施的脆弱性凸显，需要立即加强气候适应性设计和建设。",
       "source": "澳大利亚气候委员会",
-      "date": "2025-12-22",
+      "date": "2025-12-23",
       "category": "climate",
       "link": "https://www.climatecouncil.org.au/resources/",
       "urgency": "high"
@@ -23,7 +23,7 @@
       "title": "全球气温预测：未来5年将持续创纪录高温",
       "description": "世界气象组织最新预测显示，2025-2029年全球平均气温有70%可能超过1.5°C临界值。这对全球生态系统和人类社会构成前所未有的挑战，需要加速减排和适应行动。",
       "source": "世界气象组织",
-      "date": "2025-12-22",
+      "date": "2025-12-23",
       "category": "climate",
       "link": "https://wmo.int/news/media-centre/",
       "urgency": "high"
@@ -32,7 +32,7 @@
       "title": "生物多样性保护新突破：基于AI的物种监测技术",
       "description": "最新研究表明，结合人工智能和环境DNA技术的物种监测方法，可以显著提高生物多样性评估的准确性和效率。这为环境保护和生态研究提供了强有力的工具。",
       "source": "Nature Ecology & Evolution",
-      "date": "2025-12-22",
+      "date": "2025-12-23",
       "category": "academic",
       "link": "https://www.nature.com/natecolevol/",
       "urgency": "medium"
