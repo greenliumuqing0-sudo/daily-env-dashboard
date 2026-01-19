@@ -1,34 +1,6 @@
 {
-  "last_updated": "2026-01-18T00:51:29.964081",
+  "last_updated": "2026-01-19T00:50:47.217820",
   "opportunities": [
-    {
-      "title": "Landcare项目协调员",
-      "description": "协调和管理区域性土地保护和恢复项目。工作包括农户和社区沟通、项目规划执行、资金申请管理、生态恢复效果监测等。需要在城乡之间工作，直接与农民和土地所有者合作推进可持续土地管理。",
-      "organization": "ACT Landcare Association",
-      "location": "堪培拉ACT及周边农村地区",
-      "type": "全职就业",
-      "commitment": "全职职位，需要灵活工作时间和地点",
-      "skills": "项目管理、社区参与、生态恢复、资金管理、跨文化沟通",
-      "benefits": "年薪$60,000-75,000、有意义的环保工作、多元化工作环境",
-      "contact": "jobs@landcareact.org.au",
-      "link": "https://landcareact.org.au/about/employment/",
-      "deadline": "职位不定期发布，建议关注组织网站",
-      "requirements": "环境相关背景、项目管理经验、优秀沟通技能、持有驾照必须"
-    },
-    {
-      "title": "ACT Parks生态恢复实践项目",
-      "description": "参与ACT国家公园和自然保护区的实地生态恢复工作。活动包括本土植物种植、外来杂草清除、步道维护、野生动物栖息地改善、土壤保护等。与专业护林员和生态学家一起工作，学习实用的保护技能。",
-      "organization": "ACT Parks and Conservation Service",
-      "location": "Namadgi National Park, Tidbinbilla等ACT保护区",
-      "type": "志愿者",
-      "commitment": "每月1-2个周末，每次全天活动(6-8小时)",
-      "skills": "澳洲本土植物识别、生态恢复技术、使用基础园艺工具、团队协作",
-      "benefits": "获得专业生态恢复实践经验、深入了解澳洲本土生态系统、野外工作技能培训",
-      "contact": "parkcare@act.gov.au",
-      "link": "https://www.parks.act.gov.au/get-involved/parkcare-volunteering",
-      "deadline": "持续招募，春夏季(10月-3月)活动较多",
-      "requirements": "身体健康能进行户外体力劳动，通过基础工作安全培训，对自然保护有兴趣"
-    },
     {
       "title": "ANU环境科学研究助理(多个职位)",
       "description": "协助Fenner School教授进行前沿环境科学研究。参与气候变化影响评估、生物多样性保护、可持续发展政策等研究项目。工作包括数据收集分析、文献综述、实验设计、统计建模、学术写作等。",
@@ -58,18 +30,18 @@
       "requirements": "相关学位、澳洲工作权利、安全背景调查、量化分析能力强"
     },
     {
-      "title": "Graduate Environmental Consultant (多家公司)",
-      "description": "在专业环境咨询公司从事环境影响评估、生态调查、合规监测等工作。参与大型基础设施项目环评，进行野外生物调查，使用GIS分析空间数据，撰写技术报告和环境管理计划。",
-      "organization": "堪培拉多家环境咨询公司",
-      "location": "堪培拉ACT及NSW边界地区",
-      "type": "全职就业",
-      "commitment": "全职38-40小时/周，项目期间可能需要野外工作",
-      "skills": "环境科学背景、GIS技能(ArcGIS/QGIS)、生态调查、报告写作、项目管理",
-      "benefits": "年薪$65,000-85,000、专业发展培训、行业认证支持、快速职业成长",
-      "contact": "LinkedIn, Indeed, Seek等专业求职平台",
-      "link": "https://au.indeed.com/jobs?q=environmental+consultant&l=Canberra+ACT",
-      "deadline": "持续招聘，应届毕业生项目通常在10-12月开始",
-      "requirements": "环境科学/工程学位，良好英语沟通能力，持有驾照，愿意学习澳洲环境法规"
+      "title": "Jerrabomberra湿地生态监测志愿者",
+      "description": "参与珍稀水鸟监测、栖息地恢复和环境教育项目。包括Latham's Snipe季节性监测、湿地植被恢复、入侵物种控制等实践工作。提供专业生态学培训和野外安全指导，是获得澳洲本土生态保护经验的绝佳机会。",
+      "organization": "Jerrabomberra Wetlands Discovery Centre",
+      "location": "堪培拉ACT - Jerrabomberra湿地国家保护区",
+      "type": "志愿者",
+      "commitment": "每月2-4次，每次3-4小时，主要在周末上午",
+      "skills": "野生动物识别、生态监测、GPS数据收集、基础摄影记录",
+      "benefits": "获得野生动物保护培训证书、建立环保专业网络、增强生态学实践技能、简历加分项",
+      "contact": "volunteer@jerrabomberrawetlands.org.au",
+      "link": "https://www.jerrabomberrawetlands.org.au/volunteer",
+      "deadline": "全年滚动招募，春季(9-11月)活动最多",
+      "requirements": "对自然保护有热情，能进行轻度体力活动，完成基础安全培训"
     },
     {
       "title": "ACT保护委员会环境政策研究助理",
@@ -100,18 +72,46 @@
       "requirements": "积极主动的态度，愿意学习新技能，有社区服务精神"
     },
     {
-      "title": "Jerrabomberra湿地生态监测志愿者",
-      "description": "参与珍稀水鸟监测、栖息地恢复和环境教育项目。包括Latham's Snipe季节性监测、湿地植被恢复、入侵物种控制等实践工作。提供专业生态学培训和野外安全指导，是获得澳洲本土生态保护经验的绝佳机会。",
-      "organization": "Jerrabomberra Wetlands Discovery Centre",
-      "location": "堪培拉ACT - Jerrabomberra湿地国家保护区",
+      "title": "ACT Parks生态恢复实践项目",
+      "description": "参与ACT国家公园和自然保护区的实地生态恢复工作。活动包括本土植物种植、外来杂草清除、步道维护、野生动物栖息地改善、土壤保护等。与专业护林员和生态学家一起工作，学习实用的保护技能。",
+      "organization": "ACT Parks and Conservation Service",
+      "location": "Namadgi National Park, Tidbinbilla等ACT保护区",
       "type": "志愿者",
-      "commitment": "每月2-4次，每次3-4小时，主要在周末上午",
-      "skills": "野生动物识别、生态监测、GPS数据收集、基础摄影记录",
-      "benefits": "获得野生动物保护培训证书、建立环保专业网络、增强生态学实践技能、简历加分项",
-      "contact": "volunteer@jerrabomberrawetlands.org.au",
-      "link": "https://www.jerrabomberrawetlands.org.au/volunteer",
-      "deadline": "全年滚动招募，春季(9-11月)活动最多",
-      "requirements": "对自然保护有热情，能进行轻度体力活动，完成基础安全培训"
+      "commitment": "每月1-2个周末，每次全天活动(6-8小时)",
+      "skills": "澳洲本土植物识别、生态恢复技术、使用基础园艺工具、团队协作",
+      "benefits": "获得专业生态恢复实践经验、深入了解澳洲本土生态系统、野外工作技能培训",
+      "contact": "parkcare@act.gov.au",
+      "link": "https://www.parks.act.gov.au/get-involved/parkcare-volunteering",
+      "deadline": "持续招募，春夏季(10月-3月)活动较多",
+      "requirements": "身体健康能进行户外体力劳动，通过基础工作安全培训，对自然保护有兴趣"
+    },
+    {
+      "title": "Graduate Environmental Consultant (多家公司)",
+      "description": "在专业环境咨询公司从事环境影响评估、生态调查、合规监测等工作。参与大型基础设施项目环评，进行野外生物调查，使用GIS分析空间数据，撰写技术报告和环境管理计划。",
+      "organization": "堪培拉多家环境咨询公司",
+      "location": "堪培拉ACT及NSW边界地区",
+      "type": "全职就业",
+      "commitment": "全职38-40小时/周，项目期间可能需要野外工作",
+      "skills": "环境科学背景、GIS技能(ArcGIS/QGIS)、生态调查、报告写作、项目管理",
+      "benefits": "年薪$65,000-85,000、专业发展培训、行业认证支持、快速职业成长",
+      "contact": "LinkedIn, Indeed, Seek等专业求职平台",
+      "link": "https://au.indeed.com/jobs?q=environmental+consultant&l=Canberra+ACT",
+      "deadline": "持续招聘，应届毕业生项目通常在10-12月开始",
+      "requirements": "环境科学/工程学位，良好英语沟通能力，持有驾照，愿意学习澳洲环境法规"
+    },
+    {
+      "title": "Landcare项目协调员",
+      "description": "协调和管理区域性土地保护和恢复项目。工作包括农户和社区沟通、项目规划执行、资金申请管理、生态恢复效果监测等。需要在城乡之间工作，直接与农民和土地所有者合作推进可持续土地管理。",
+      "organization": "ACT Landcare Association",
+      "location": "堪培拉ACT及周边农村地区",
+      "type": "全职就业",
+      "commitment": "全职职位，需要灵活工作时间和地点",
+      "skills": "项目管理、社区参与、生态恢复、资金管理、跨文化沟通",
+      "benefits": "年薪$60,000-75,000、有意义的环保工作、多元化工作环境",
+      "contact": "jobs@landcareact.org.au",
+      "link": "https://landcareact.org.au/about/employment/",
+      "deadline": "职位不定期发布，建议关注组织网站",
+      "requirements": "环境相关背景、项目管理经验、优秀沟通技能、持有驾照必须"
     }
   ]
 }
