@@ -1,16 +1,6 @@
 {
-  "last_updated": "2026-01-27T00:50:21.823318",
+  "last_updated": "2026-01-28T00:46:44.677627",
   "tools": [
-    {
-      "name": "Google Earth Engine",
-      "summary": "谷歌云端行星级地理空间分析平台，集成PB级卫星数据",
-      "usefulness": "革命性的云端GIS平台，无需下载TB级数据即可进行全球分析。特别适用于气候变化监测、森林砍伐追踪、城市扩张研究、农业监测等大尺度环境研究。对发表高影响因子环境科学论文极其有用。",
-      "technical": "通过JavaScript和Python API访问，集成Landsat、Sentinel、MODIS、CHIRPS等几十个权威数据集。计算在Google云端进行，支持机器学习算法。提供交互式代码编辑器，可导出高分辨率结果。",
-      "category": "GIS",
-      "difficulty": "中级",
-      "link": "https://earthengine.google.com/",
-      "stars": "N/A"
-    },
     {
       "name": "Python地理空间生态系统",
       "summary": "GeoPandas + Rasterio + Folium + Cartopy完整工具链",
@@ -20,6 +10,16 @@
       "difficulty": "中级",
       "link": "https://geopandas.org/",
       "stars": "N/A"
+    },
+    {
+      "name": "pudl",
+      "summary": "The Public Utility Data Liberation Project provides analysis-ready energy system...",
+      "usefulness": "这个climate-analysis相关的Python项目特别适用于环境数据分析和地理空间处理任务。对于环境科学学生来说，它提供了实际的工具和方法来处理复杂的环境数据集。",
+      "technical": "基于Python开发，在GitHub上有570个星标。可通过pip安装，与pandas、numpy、matplotlib等科学计算库无缝集成。支持Jupyter Notebook环境。",
+      "category": "programming",
+      "difficulty": "中级",
+      "link": "https://github.com/catalyst-cooperative/pudl",
+      "stars": 570
     },
     {
       "name": "GRASS GIS",
@@ -39,6 +39,26 @@
       "category": "GIS",
       "difficulty": "初级",
       "link": "https://qgis.org/",
+      "stars": "N/A"
+    },
+    {
+      "name": "WIFI-SCI-Indoor-Positioning",
+      "summary": "This is an open-source project that employs deep learning to enhance indoor posi...",
+      "usefulness": "这个environmental-data相关的Python项目特别适用于环境数据分析和地理空间处理任务。对于环境科学学生来说，它提供了实际的工具和方法来处理复杂的环境数据集。",
+      "technical": "基于Python开发，在GitHub上有105个星标。可通过pip安装，与pandas、numpy、matplotlib等科学计算库无缝集成。支持Jupyter Notebook环境。",
+      "category": "programming",
+      "difficulty": "中级",
+      "link": "https://github.com/zhangleino1/WIFI-SCI-Indoor-Positioning",
+      "stars": 105
+    },
+    {
+      "name": "Google Earth Engine",
+      "summary": "谷歌云端行星级地理空间分析平台，集成PB级卫星数据",
+      "usefulness": "革命性的云端GIS平台，无需下载TB级数据即可进行全球分析。特别适用于气候变化监测、森林砍伐追踪、城市扩张研究、农业监测等大尺度环境研究。对发表高影响因子环境科学论文极其有用。",
+      "technical": "通过JavaScript和Python API访问，集成Landsat、Sentinel、MODIS、CHIRPS等几十个权威数据集。计算在Google云端进行，支持机器学习算法。提供交互式代码编辑器，可导出高分辨率结果。",
+      "category": "GIS",
+      "difficulty": "中级",
+      "link": "https://earthengine.google.com/",
       "stars": "N/A"
     }
   ]
