@@ -1,6 +1,62 @@
 {
-  "last_updated": "2026-02-15T01:01:50.072194",
+  "last_updated": "2026-02-16T00:59:54.631460",
   "opportunities": [
+    {
+      "title": "ANU环境科学研究助理(多个职位)",
+      "description": "协助Fenner School教授进行前沿环境科学研究。参与气候变化影响评估、生物多样性保护、可持续发展政策等研究项目。工作包括数据收集分析、文献综述、实验设计、统计建模、学术写作等。",
+      "organization": "ANU Fenner School of Environment & Society",
+      "location": "堪培拉ACT - ANU Acton校区",
+      "type": "兼职研究",
+      "commitment": "每周15-25小时，学期期间时间灵活安排",
+      "skills": "统计分析(R/Python/SPSS)、学术写作、文献研究、数据可视化、英语流利",
+      "benefits": "丰富学术研究经验、导师推荐信、研究生申请强力加分、时薪$28-32",
+      "contact": "关注Fenner School官网就业页面，定期发布招聘信息",
+      "link": "https://fennerschool.anu.edu.au/study/careers",
+      "deadline": "按项目周期招聘，通常每学期初和年中",
+      "requirements": "环境/地理/生物相关专业，GPA 6.0+，有研究经验或强烈研究兴趣者优先"
+    },
+    {
+      "title": "Graduate Environmental Consultant (多家公司)",
+      "description": "在专业环境咨询公司从事环境影响评估、生态调查、合规监测等工作。参与大型基础设施项目环评，进行野外生物调查，使用GIS分析空间数据，撰写技术报告和环境管理计划。",
+      "organization": "堪培拉多家环境咨询公司",
+      "location": "堪培拉ACT及NSW边界地区",
+      "type": "全职就业",
+      "commitment": "全职38-40小时/周，项目期间可能需要野外工作",
+      "skills": "环境科学背景、GIS技能(ArcGIS/QGIS)、生态调查、报告写作、项目管理",
+      "benefits": "年薪$65,000-85,000、专业发展培训、行业认证支持、快速职业成长",
+      "contact": "LinkedIn, Indeed, Seek等专业求职平台",
+      "link": "https://au.indeed.com/jobs?q=environmental+consultant&l=Canberra+ACT",
+      "deadline": "持续招聘，应届毕业生项目通常在10-12月开始",
+      "requirements": "环境科学/工程学位，良好英语沟通能力，持有驾照，愿意学习澳洲环境法规"
+    },
+    {
+      "title": "气候数据分析师 - 澳洲气象局",
+      "description": "参与国家气候监测和预测项目，分析长期气候数据趋势，开发气候变化影响模型，支持政府气候政策制定。使用Python/R进行大数据分析，制作可视化报告，参与国际气候科学合作项目。",
+      "organization": "Australian Bureau of Meteorology",
+      "location": "堪培拉ACT - 气象局总部",
+      "type": "全职就业",
+      "commitment": "全职职位，政府标准工作时间",
+      "skills": "气象学/气候学背景、Python/R编程、统计建模、大数据处理、科学可视化",
+      "benefits": "政府薪酬体系$70,000-95,000、优秀福利、专业发展机会、工作稳定性",
+      "contact": "APSjobs.gov.au 澳洲政府招聘网站",
+      "link": "http://www.bom.gov.au/careers/",
+      "deadline": "职位周期性发布，建议订阅职位通知",
+      "requirements": "相关学位、澳洲工作权利、安全背景调查、量化分析能力强"
+    },
+    {
+      "title": "Landcare项目协调员",
+      "description": "协调和管理区域性土地保护和恢复项目。工作包括农户和社区沟通、项目规划执行、资金申请管理、生态恢复效果监测等。需要在城乡之间工作，直接与农民和土地所有者合作推进可持续土地管理。",
+      "organization": "ACT Landcare Association",
+      "location": "堪培拉ACT及周边农村地区",
+      "type": "全职就业",
+      "commitment": "全职职位，需要灵活工作时间和地点",
+      "skills": "项目管理、社区参与、生态恢复、资金管理、跨文化沟通",
+      "benefits": "年薪$60,000-75,000、有意义的环保工作、多元化工作环境",
+      "contact": "jobs@landcareact.org.au",
+      "link": "https://landcareact.org.au/about/employment/",
+      "deadline": "职位不定期发布，建议关注组织网站",
+      "requirements": "环境相关背景、项目管理经验、优秀沟通技能、持有驾照必须"
+    },
     {
       "title": "Canberra Environment Centre社区可持续发展项目",
       "description": "参与多元化的社区环境项目，包括城市农业、零废物推广、可再生能源教育、气候适应性社区建设等。组织和参与环境教育工作坊、维护社区花园、推广环保技术和生活方式。",
@@ -44,20 +100,6 @@
       "requirements": "本科在读或以上学历，优秀的英文写作能力，对环境政策有浓厚兴趣"
     },
     {
-      "title": "Graduate Environmental Consultant (多家公司)",
-      "description": "在专业环境咨询公司从事环境影响评估、生态调查、合规监测等工作。参与大型基础设施项目环评，进行野外生物调查，使用GIS分析空间数据，撰写技术报告和环境管理计划。",
-      "organization": "堪培拉多家环境咨询公司",
-      "location": "堪培拉ACT及NSW边界地区",
-      "type": "全职就业",
-      "commitment": "全职38-40小时/周，项目期间可能需要野外工作",
-      "skills": "环境科学背景、GIS技能(ArcGIS/QGIS)、生态调查、报告写作、项目管理",
-      "benefits": "年薪$65,000-85,000、专业发展培训、行业认证支持、快速职业成长",
-      "contact": "LinkedIn, Indeed, Seek等专业求职平台",
-      "link": "https://au.indeed.com/jobs?q=environmental+consultant&l=Canberra+ACT",
-      "deadline": "持续招聘，应届毕业生项目通常在10-12月开始",
-      "requirements": "环境科学/工程学位，良好英语沟通能力，持有驾照，愿意学习澳洲环境法规"
-    },
-    {
       "title": "ACT Parks生态恢复实践项目",
       "description": "参与ACT国家公园和自然保护区的实地生态恢复工作。活动包括本土植物种植、外来杂草清除、步道维护、野生动物栖息地改善、土壤保护等。与专业护林员和生态学家一起工作，学习实用的保护技能。",
       "organization": "ACT Parks and Conservation Service",
@@ -70,48 +112,6 @@
       "link": "https://www.parks.act.gov.au/get-involved/parkcare-volunteering",
       "deadline": "持续招募，春夏季(10月-3月)活动较多",
       "requirements": "身体健康能进行户外体力劳动，通过基础工作安全培训，对自然保护有兴趣"
-    },
-    {
-      "title": "ANU环境科学研究助理(多个职位)",
-      "description": "协助Fenner School教授进行前沿环境科学研究。参与气候变化影响评估、生物多样性保护、可持续发展政策等研究项目。工作包括数据收集分析、文献综述、实验设计、统计建模、学术写作等。",
-      "organization": "ANU Fenner School of Environment & Society",
-      "location": "堪培拉ACT - ANU Acton校区",
-      "type": "兼职研究",
-      "commitment": "每周15-25小时，学期期间时间灵活安排",
-      "skills": "统计分析(R/Python/SPSS)、学术写作、文献研究、数据可视化、英语流利",
-      "benefits": "丰富学术研究经验、导师推荐信、研究生申请强力加分、时薪$28-32",
-      "contact": "关注Fenner School官网就业页面，定期发布招聘信息",
-      "link": "https://fennerschool.anu.edu.au/study/careers",
-      "deadline": "按项目周期招聘，通常每学期初和年中",
-      "requirements": "环境/地理/生物相关专业，GPA 6.0+，有研究经验或强烈研究兴趣者优先"
-    },
-    {
-      "title": "Landcare项目协调员",
-      "description": "协调和管理区域性土地保护和恢复项目。工作包括农户和社区沟通、项目规划执行、资金申请管理、生态恢复效果监测等。需要在城乡之间工作，直接与农民和土地所有者合作推进可持续土地管理。",
-      "organization": "ACT Landcare Association",
-      "location": "堪培拉ACT及周边农村地区",
-      "type": "全职就业",
-      "commitment": "全职职位，需要灵活工作时间和地点",
-      "skills": "项目管理、社区参与、生态恢复、资金管理、跨文化沟通",
-      "benefits": "年薪$60,000-75,000、有意义的环保工作、多元化工作环境",
-      "contact": "jobs@landcareact.org.au",
-      "link": "https://landcareact.org.au/about/employment/",
-      "deadline": "职位不定期发布，建议关注组织网站",
-      "requirements": "环境相关背景、项目管理经验、优秀沟通技能、持有驾照必须"
-    },
-    {
-      "title": "气候数据分析师 - 澳洲气象局",
-      "description": "参与国家气候监测和预测项目，分析长期气候数据趋势，开发气候变化影响模型，支持政府气候政策制定。使用Python/R进行大数据分析，制作可视化报告，参与国际气候科学合作项目。",
-      "organization": "Australian Bureau of Meteorology",
-      "location": "堪培拉ACT - 气象局总部",
-      "type": "全职就业",
-      "commitment": "全职职位，政府标准工作时间",
-      "skills": "气象学/气候学背景、Python/R编程、统计建模、大数据处理、科学可视化",
-      "benefits": "政府薪酬体系$70,000-95,000、优秀福利、专业发展机会、工作稳定性",
-      "contact": "APSjobs.gov.au 澳洲政府招聘网站",
-      "link": "http://www.bom.gov.au/careers/",
-      "deadline": "职位周期性发布，建议订阅职位通知",
-      "requirements": "相关学位、澳洲工作权利、安全背景调查、量化分析能力强"
     }
   ]
 }
