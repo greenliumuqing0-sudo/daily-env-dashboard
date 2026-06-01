@@ -1,6 +1,6 @@
 # 环境科学每日摘要报告
 
-**生成时间**: 2026年05月31日 01:59 AEST
+**生成时间**: 2026年06月01日 02:08 AEST
 
 ## 📊 数据统计
 - 环境科学新闻: 4 条
@@ -61,5 +61,5 @@
 
 
 ---
-*本报告由自动化系统生成 | 下次更新: 2026-06-01 01:59:21 AEST*
+*本报告由自动化系统生成 | 下次更新: 2026-06-02 02:08:01 AEST*
 *数据来源: ANU Fenner School, Australian Climate Council, GitHub Trending, ACT Government, Conservation Organizations, Environmental Consulting Firms*
