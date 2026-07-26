@@ -1,6 +1,16 @@
 {
-  "last_updated": "2026-07-25T01:18:08.079026",
+  "last_updated": "2026-07-26T01:21:16.575377",
   "tools": [
+    {
+      "name": "R Spatial生态系统",
+      "summary": "sf + terra + tmap + rgee等R语言空间分析包",
+      "usefulness": "R在统计生态学和环境建模中优势显著。sf包提供现代空间数据处理，terra处理大型栅格，tmap创建出版级地图，rgee连接Google Earth Engine。特别适合物种分布建模、生态统计、环境监测分析。",
+      "technical": "基于sf标准的现代空间框架，与tidyverse生态无缝集成。支持复杂统计模型如GAM、混合效应模型。通过rgee直接访问Google Earth Engine，实现R与云端GIS结合。拥有3000+专业包。",
+      "category": "编程",
+      "difficulty": "中高级",
+      "link": "https://r-spatial.github.io/sf/",
+      "stars": "N/A"
+    },
     {
       "name": "QGIS",
       "summary": "世界领先的开源地理信息系统，支持全方位空间数据分析",
@@ -9,6 +19,16 @@
       "category": "GIS",
       "difficulty": "初级",
       "link": "https://qgis.org/",
+      "stars": "N/A"
+    },
+    {
+      "name": "Python地理空间生态系统",
+      "summary": "GeoPandas + Rasterio + Folium + Cartopy完整工具链",
+      "usefulness": "Python在环境数据科学中地位无可替代。GeoPandas让空间数据处理如Excel般简单，Folium创建交互式Web地图，Rasterio处理卫星影像，Cartopy制作科学地图。覆盖从数据获取到可视化的完整流程。",
+      "technical": "核心库包括GeoPandas(空间DataFrame)、Rasterio(栅格I/O)、Shapely(几何运算)、Folium(交互地图)、Cartopy(地图投影)、PyProj(坐标转换)。与Jupyter、Pandas、NumPy、Matplotlib完美集成。",
+      "category": "编程",
+      "difficulty": "中级",
+      "link": "https://geopandas.org/",
       "stars": "N/A"
     },
     {
@@ -30,26 +50,6 @@
       "difficulty": "中级",
       "link": "https://github.com/jmrplens/phonometry",
       "stars": 101
-    },
-    {
-      "name": "Python地理空间生态系统",
-      "summary": "GeoPandas + Rasterio + Folium + Cartopy完整工具链",
-      "usefulness": "Python在环境数据科学中地位无可替代。GeoPandas让空间数据处理如Excel般简单，Folium创建交互式Web地图，Rasterio处理卫星影像，Cartopy制作科学地图。覆盖从数据获取到可视化的完整流程。",
-      "technical": "核心库包括GeoPandas(空间DataFrame)、Rasterio(栅格I/O)、Shapely(几何运算)、Folium(交互地图)、Cartopy(地图投影)、PyProj(坐标转换)。与Jupyter、Pandas、NumPy、Matplotlib完美集成。",
-      "category": "编程",
-      "difficulty": "中级",
-      "link": "https://geopandas.org/",
-      "stars": "N/A"
-    },
-    {
-      "name": "R Spatial生态系统",
-      "summary": "sf + terra + tmap + rgee等R语言空间分析包",
-      "usefulness": "R在统计生态学和环境建模中优势显著。sf包提供现代空间数据处理，terra处理大型栅格，tmap创建出版级地图，rgee连接Google Earth Engine。特别适合物种分布建模、生态统计、环境监测分析。",
-      "technical": "基于sf标准的现代空间框架，与tidyverse生态无缝集成。支持复杂统计模型如GAM、混合效应模型。通过rgee直接访问Google Earth Engine，实现R与云端GIS结合。拥有3000+专业包。",
-      "category": "编程",
-      "difficulty": "中高级",
-      "link": "https://r-spatial.github.io/sf/",
-      "stars": "N/A"
     },
     {
       "name": "GRASS GIS",
