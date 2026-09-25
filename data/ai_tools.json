@@ -1,25 +1,15 @@
 {
-  "last_updated": "2026-09-24T01:45:16.666528",
+  "last_updated": "2026-09-25T02:01:59.160904",
   "tools": [
     {
-      "name": "pudl",
-      "summary": "The Public Utility Data Liberation Project provides analysis-ready energy system...",
+      "name": "uxarray",
+      "summary": "Xarray extension for unstructured climate and global weather data analysis and v...",
       "usefulness": "这个climate-analysis相关的Python项目特别适用于环境数据分析和地理空间处理任务。对于环境科学学生来说，它提供了实际的工具和方法来处理复杂的环境数据集。",
-      "technical": "基于Python开发，在GitHub上有607个星标。可通过pip安装，与pandas、numpy、matplotlib等科学计算库无缝集成。支持Jupyter Notebook环境。",
+      "technical": "基于Python开发，在GitHub上有228个星标。可通过pip安装，与pandas、numpy、matplotlib等科学计算库无缝集成。支持Jupyter Notebook环境。",
       "category": "programming",
       "difficulty": "中级",
-      "link": "https://github.com/catalyst-cooperative/pudl",
-      "stars": 607
-    },
-    {
-      "name": "QGIS",
-      "summary": "世界领先的开源地理信息系统，支持全方位空间数据分析",
-      "usefulness": "对环境科学学生来说是必备技能。QGIS完全免费，功能媲美昂贵的ArcGIS。支持200+种数据格式，从简单地图制作到复杂空间分析都能胜任。学会QGIS后可轻松转换到任何GIS平台，是求职和学术研究的重要加分项。",
-      "technical": "基于C++和Qt框架，跨平台支持Windows/Mac/Linux。内置Python控制台支持自动化脚本，拥有500+插件扩展功能。支持OGC标准，可与R、Python、PostGIS无缝集成进行高级分析。",
-      "category": "GIS",
-      "difficulty": "初级",
-      "link": "https://qgis.org/",
-      "stars": "N/A"
+      "link": "https://github.com/UXARRAY/uxarray",
+      "stars": 228
     },
     {
       "name": "Python地理空间生态系统",
@@ -30,16 +20,6 @@
       "difficulty": "中级",
       "link": "https://geopandas.org/",
       "stars": "N/A"
-    },
-    {
-      "name": "phonometry",
-      "summary": "Standards-conformant acoustics library for Python: measurement and metrology, bu...",
-      "usefulness": "这个environmental-data相关的Python项目特别适用于环境数据分析和地理空间处理任务。对于环境科学学生来说，它提供了实际的工具和方法来处理复杂的环境数据集。",
-      "technical": "基于Python开发，在GitHub上有118个星标。可通过pip安装，与pandas、numpy、matplotlib等科学计算库无缝集成。支持Jupyter Notebook环境。",
-      "category": "programming",
-      "difficulty": "中级",
-      "link": "https://github.com/jmrplens/phonometry",
-      "stars": 118
     },
     {
       "name": "R Spatial生态系统",
@@ -60,6 +40,26 @@
       "difficulty": "中级",
       "link": "https://earthengine.google.com/",
       "stars": "N/A"
+    },
+    {
+      "name": "QGIS",
+      "summary": "世界领先的开源地理信息系统，支持全方位空间数据分析",
+      "usefulness": "对环境科学学生来说是必备技能。QGIS完全免费，功能媲美昂贵的ArcGIS。支持200+种数据格式，从简单地图制作到复杂空间分析都能胜任。学会QGIS后可轻松转换到任何GIS平台，是求职和学术研究的重要加分项。",
+      "technical": "基于C++和Qt框架，跨平台支持Windows/Mac/Linux。内置Python控制台支持自动化脚本，拥有500+插件扩展功能。支持OGC标准，可与R、Python、PostGIS无缝集成进行高级分析。",
+      "category": "GIS",
+      "difficulty": "初级",
+      "link": "https://qgis.org/",
+      "stars": "N/A"
+    },
+    {
+      "name": "phonometry",
+      "summary": "Standards-conformant acoustics library for Python: measurement and metrology, bu...",
+      "usefulness": "这个environmental-data相关的Python项目特别适用于环境数据分析和地理空间处理任务。对于环境科学学生来说，它提供了实际的工具和方法来处理复杂的环境数据集。",
+      "technical": "基于Python开发，在GitHub上有118个星标。可通过pip安装，与pandas、numpy、matplotlib等科学计算库无缝集成。支持Jupyter Notebook环境。",
+      "category": "programming",
+      "difficulty": "中级",
+      "link": "https://github.com/jmrplens/phonometry",
+      "stars": 118
     }
   ]
 }
